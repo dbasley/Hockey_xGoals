@@ -8,6 +8,6 @@ First fits logistic regression to shot attempts.
 
 Next fits multi-level model with player and goalie effects.
 
-Sums all of individual player xGoals across shots
+Extracts all of individual player xGoals random effects across shots
 
-Sums all of individual goalies xSaves across shots
+Extracts all of individual goalies xSaves random effects across shots
